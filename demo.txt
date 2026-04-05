@@ -1,6 +1,2 @@
-This is just to understand how git works
-
-Hello Ganesha 
-How are you, I hope your doing good and I love you
-
-just for fun 
+Hi 
+This is my new file 
