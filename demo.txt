@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi 
 This is my new file 
+=======
+This is just to understand how git works
+This is my 1st file 
+>>>>>>> d81ab02490236e4fc90efb1c519e1ab389577721
