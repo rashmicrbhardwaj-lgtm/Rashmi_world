@@ -1,3 +1,2 @@
-Hello Universe 
-I love you universe 
-wow is a wow
+This is a trial 
+Learning Git is very intresting 
