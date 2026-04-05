@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 git add .
 git commit -m "added new line"
 git push
-=======
+
 This is a trial 
-Learning Git is very intresting 
->>>>>>> d81ab02490236e4fc90efb1c519e1ab389577721
+
+Learning Git is very interesting - OMG OMG OMG GANESHAAAAA
+
